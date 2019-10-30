@@ -4,6 +4,8 @@
     <robotExecEnvironment path="/Library/Frameworks/Python.framework/Versions/2.7/bin" interpreter="Python"/>
     <relativeTo>WORKSPACE</relativeTo>
     <referencedLibrary type="PYTHON" name="SeleniumLibrary" path="/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/SeleniumLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="SikuliLibrary" path="/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/SikuliLibrary/__init__.py"/>
+    <referencedLibrary type="PYTHON" name="AppiumLibrary" path="/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/AppiumLibrary/__init__.py"/>
     <pythonpath/>
     <classpath/>
     <excludedForValidation/>
